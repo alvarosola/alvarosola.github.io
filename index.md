@@ -1,6 +1,6 @@
 ---
 layout: index
 
-title: Servicios de red 
-tagline: CFGM SMR
+title: Implantación de Aplicaciones Web
+tagline: alvarosola.github.io
 ---
