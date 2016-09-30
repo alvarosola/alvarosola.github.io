@@ -22,7 +22,7 @@ tagline: alvarosola.github.io
 * Grado Medio Sistemas Microinformaticos y Redes
 
 # Información adicional
-* Interes personales: Me gusta mucho el deporte y cuidarme con la alimentación. Soy socio de Real Betis Balompie y relaciones de discotecas de Sevilla.
+* Interes personales: Me gusta mucho el deporte y cuidarme con la alimentación. Soy socio de Real Betis Balompié y relaciones públicas de discotecas de Sevilla.
 * Interes laborales: Me gustaría hacer alguna oposición. 
 * Valores personales: Trabajador, constante y humilde.
 * Dispongo de carnet de conducir y disponibilidad para trabajar fuera de mi provincia.
