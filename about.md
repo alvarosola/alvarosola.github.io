@@ -15,7 +15,7 @@ tagline: alvarosola.github.io
 * Realización de prácticas de empresas, en MicroData.
 
 # Idiomas
-* Nivel B1
+* Inglés - Nivel B1
 
 # Cursos
 * E.S.O
