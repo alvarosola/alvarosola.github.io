@@ -5,5 +5,5 @@ title: Implantación de Aplicaciones Web
 tagline: alvarosola.github.io
 ---
 
-	* [Curriculum](/about)
+	*[Curriculum](/about)
 	<hr/>
