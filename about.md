@@ -3,7 +3,7 @@ layout: index
 title: Implantación de Aplicaciones Web
 tagline: alvarosola.github.io
 ---
-#Álvaro Sola Olivero
+# Álvaro Sola Olivero
 Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2016)
 
 #Formación Técnica
