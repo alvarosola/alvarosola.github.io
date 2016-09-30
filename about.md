@@ -13,10 +13,7 @@ Realización de prácticas de empresas, en MicroData.
 E.S.O
 Grado Medio Sistemas Microinformaticos y Redes
 # Información adicional
-	-Interes personales:
-
-	-Interes laborales:
-
-	-Valores personales:
-
-	-Carné de conducir y disponibilidad para trabajar fuera de tu provincia:
+Interes personales:
+Interes laborales:
+Valores personales:
+Carné de conducir y disponibilidad para trabajar fuera de tu provincia:
