@@ -5,7 +5,7 @@ tagline: alvarosola.github.io
 ---
 
 | LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES       |
-| ---           | ---           | ---           | ---           | ---           | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
 | BBDD          |     -         |     -         |     -         |      -        |
 | BBDD          |     -         |     -         |     -         |      -        |
 |  -            |     -         |     -         | SAD           |      -        |
