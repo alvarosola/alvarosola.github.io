@@ -7,7 +7,6 @@ tagline: alvarosola.github.io
 # Álvaro Sola Olivero
 
 * Estudiante de ASIR IES Gonzalo Nazareno
-
 | LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES        |
 | ------------- | ------------- | ------------- | ------------- | -------------  | 
 | BBDD          |     -         |     -         |     -         |      -         |
