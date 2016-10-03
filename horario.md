@@ -11,5 +11,5 @@ tagline: alvarosola.github.io
 |  -            |     -         |     -         | SAD           |      -        |
 | RECREO        | RECREO        | RECREO        | RECREO        | RECREO        |
 | IAW           | SAD           |     -         | SAD           |      -        |
-| IAW           |               | BBDD          | BBDD          | IAW           |
-| SAD           |               | BBDD          | BBDD          | IAW           |
+| IAW           |     -         | BBDD          | BBDD          | IAW           |
+| SAD           |     -         | BBDD          | BBDD          | IAW           |
