@@ -4,7 +4,7 @@ layout: index
 title: Implantación de Aplicaciones Web
 tagline: alvarosola.github.io
 ---
-![Imagen](foto1.jpg)
+![Imagen](logo.jpg)
 
 *[Curriculum](/about)
 <hr/>
