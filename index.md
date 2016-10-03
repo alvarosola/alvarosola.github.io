@@ -8,3 +8,6 @@ tagline: alvarosola.github.io
 
 *[Curriculum](/about)
 <hr/>
+
+*[Horario](/horario)
+<hr/>
